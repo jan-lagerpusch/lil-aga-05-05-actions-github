@@ -3,7 +3,7 @@
 ## Resources
 - [Webhook events and payloads](https://docs.github.com/en/developers/webhooks-and-events/webhooks/webhook-events-and-payloads)
 - [Octokit documentation](https://octokit.github.io/rest.js)
-
+ 
 ## The exercise details
 Use these files to test a JavaScript action that uses the @actions/gihtub pacakge.
 
@@ -70,3 +70,4 @@ The action can be triggered on pushes, pull requests, and workflow distpathes.
 1. Go to the `Pull requests` tab and view the contents of your pull requests.
 1. Confirm that the comment and a label were added.
 
+---
