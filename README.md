@@ -3,7 +3,7 @@
 ## Resources
 - [Webhook events and payloads](https://docs.github.com/en/developers/webhooks-and-events/webhooks/webhook-events-and-payloads)
 - [Octokit documentation](https://octokit.github.io/rest.js)
-
+ 
 ## The exercise details
 Use these files to test a JavaScript action that uses the @actions/gihtub pacakge.
 
